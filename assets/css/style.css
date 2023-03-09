@@ -337,4 +337,14 @@ footer{
         #photos{
             column-count: 2;
         }
+
+        #menu{
+            clear:left;
+            float:left;
+            margin-left: 30px;
+            margin-bottom: 20px;
+            line-height: 25px;
+            letter-spacing: 0;
+        }
+    
 }
